@@ -1,4 +1,4 @@
-# 🚀 Programação Web (Gui's)
+# 🚀 Desenvolvimento Web (Gui's)
 
 Este repositório contém o material, atividades e projetos desenvolvidos durante o curso de Desenvolvimento Web, que engloba **HTML, CSS, JavaScript e GitHub**.
 
