@@ -9,15 +9,7 @@ Este repositório contém o material, atividades e projetos desenvolvidos durant
 
 ## 📚 Estrutura do Curso
 
-O curso é dividido em aulas teóricas onde os conteúdos são apresentados seguindo o material de [Aulas](./aulas), e atividades propostas como desafios [Portfólio](./portfolio/) e [Ecommerce](./ecommerce/).
-
-### 🧩 Projeto 1: Portfólio Pessoal
-
-Um site simples que apresenta informações sobre o aluno, seus projetos e formas de contato. O projeto será uma landing page e será ser atualizada com o decorrer do curso, sempre implementando novos recursos de acordo com o conteúdo das aulas.
-
-### 🛒 Projeto 2: Mini E-commerce
-
-Um site de vendas fictício que será construído aos poucos como desafio. A cada aula o aluno aplicará o conteúdo aprendido e tentará fazer isso sem muito suporte, para desenvolver os aprendizados vistos em aula.
+O curso é dividido em aulas teóricas onde os conteúdos são apresentados seguindo o material de [Aulas](./aulas).
 
 ## 📁 Organização do Repositório
 
@@ -33,22 +25,6 @@ Um site de vendas fictício que será construído aos poucos como desafio. A cad
 └── JavaScript/
     ├── Aula-1/
     └── ... 
-
-📁 ecommerce/
-├── index.html
-├── produto.html
-├── carrinho.html
-├── contato.html
-├── js/
-│   └── script.js
-└── css/
-    └── style.css
-
-📁 portfolio/
-├── index.html
-├── style.css
-└── script.js
-```
 
 ## 🎯 Objetivos
 
